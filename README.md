@@ -1,6 +1,6 @@
 # Solana Blog
 
-Welcome to the **Solana Blog** project repository! This decentralized application (DApp) leverages blockchain technology to implement an auction platform on the Solana network. Here you can write blogs and tell your story to the world. This project is built using Solana and Anchor.
+Welcome to the **Solana Blog** project repository! This decentralized application (DApp) leverages blockchain technology to showcase your ideas using this platform on the Solana network. Here you can write blogs and tell your story to the world. This project is built using Solana and Anchor.
 
 ## Table of Contents
 
