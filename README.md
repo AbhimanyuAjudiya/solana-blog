@@ -79,7 +79,7 @@ Follow these steps to set up the project locally.
 
 4. Open your web browser and navigate to `http://localhost:3000` to access the DApp.
 
-5. Connect your Ethereum wallet (e.g., MetaMask) to the DApp.
+5. Connect your wallet (e.g., Phantom) to the DApp.
 
 6. Write your blog and publish it on the blockchain. You can also read blogs written by other users.
 
